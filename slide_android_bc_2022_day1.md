@@ -344,11 +344,7 @@ $ studio .
 ## 実際に動かしてみる
 
 :three: ▷をクリックして起動する。
-※ Edit Configurationが必要かも？
 
-※ エニコネを繋いでいるとAPIアクセスができない可能性があります。(M1で確認)
-※ インコネ or VPNを使わない状態ならアクセスできています。
-※ GitLabはVPN下でしか繋げないのでインコネをおすすめします。
 
 ---
 # ここからはたくさん書いて触れ合ってみましょう
@@ -358,9 +354,9 @@ $ studio .
 2. いつでも質問対応するので、メンションをください。
 
 おすすめ問題 (これをやればまんべんなくいろいろ見れる)
-＊ Issue1 ＊ Issue4 ＊ Issue7 ＊ Issue10 ＊ Issue12
+＊ [Issue1](https://github.com/recruit-tech/bootcamp-2022-android/blob/main/issues/issue1.md) ＊ [Issue4](https://github.com/recruit-tech/bootcamp-2022-android/blob/main/issues/issue4.md) ＊ [Issue7](https://github.com/recruit-tech/bootcamp-2022-android/blob/main/issues/issue7.md) ＊ [Issue10](https://github.com/recruit-tech/bootcamp-2022-android/blob/main/issues/issue10.md) ＊ [Issue12](https://github.com/recruit-tech/bootcamp-2022-android/blob/main/issues/issue12.md)
 
-※当日はGitLabで実施しました。公開用にGitHubに移行しているのでこちらをご覧ください。
+※当日はGitLabで実施しました。公開用に[GitHub](https://github.com/recruit-tech/bootcamp-2022-android)に移行しているのでこちらをご覧ください。
 
 ---
 ### ルール
