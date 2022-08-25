@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyGitHubApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_input">input</string>
+    <string name="title_search_results">SearchResults</string>
+    <string name="subtitle_results">Results</string>
+    <string name="name_sample">John Doe</string>
+    <string name="score_sample">999</string>
+    <string name="button_favorite">fav</string>
+    <string name="tag_user_icon">user_icon</string>
+</resources>
