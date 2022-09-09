@@ -1,7 +1,7 @@
 # 全体スケジュール
 ## 初日
-1. Kotlin学習 (ハンズオン)
-2. Android App基礎学習 (ハンズオン)
+1. [Kotlin学習 (ハンズオン)](https://github.com/recruit-tech/bootcamp-2022-android/blob/main/lesson/kotlin)
+2. [Android App基礎学習 (ハンズオン)](https://github.com/recruit-tech/bootcamp-2022-android/blob/main/lesson/Androidアプリ開発)
 
 ## 二日目
 1. 練習Issueを利用したエンハンスハンズオン
