@@ -17,10 +17,10 @@
 内容 |目的とゴール
 :---|:---
 1 [UI](./1.UI)|IDEを使ったUIの実装ができるようになる。
-2 [Lifecycle](./2.Lifecycle)|アプリケーションのライフサイクルを知り、処理を適切な箇所にかけるようになる。
+2 [Lifecycle](./2.LifeCycle)|アプリケーションのライフサイクルを知り、処理を適切な箇所にかけるようになる。
 3 [DataAccess](./3.DataAccess)|APIアクセスやDBへのアクセスを学び、データを取得できるようになる。
-4 [AndroidManifest](./4.AndroidManifest)|アプリケーションの設定を知り、パーミッションやIntentのことがわかるようになる。
-5 [build.gradle](./5.build.gradle)|ビルドで何が起きているかを理解し、依存関係やFlavorの存在を知る。
+4 [AndroidManifest](./5.AndroidManifest)|アプリケーションの設定を知り、パーミッションやIntentのことがわかるようになる。
+5 [build.gradle](./4.build.gradle)|ビルドで何が起きているかを理解し、依存関係やFlavorの存在を知る。
 6 [Testing](./6.Testing)|Androidにおけるテストコードがどこにあるのかを知り、テストファイルを置けるようになる。
 
 
